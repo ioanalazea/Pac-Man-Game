@@ -8,8 +8,7 @@ public class QuitScript : MonoBehaviour
     
   }
    public void QuitGame () {
- Application.Quit ();
- Debug.Log("Game is exiting");
- //Just to make sure its working
+        Application.Quit ();
+
  }
 }
